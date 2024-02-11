@@ -2,3 +2,4 @@ vega-docs/
 vega.docset/
 vega.tgz
 .DS_Store
+.ipynb_checkpoints/
